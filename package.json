@@ -1,0 +1,34 @@
+{
+  "name": "tpdu",
+  "version": "1.0.0",
+  "description": "SMS T-PDU Parser and Builder",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "should": "^7.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  },
+  "scripts": {
+    "test": "node node_modules/.bin/mocha --ui bdd -r should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbehrsin/tpdu.git"
+  },
+  "keywords": [
+    "tpdu",
+    "pdu",
+    "sms"
+  ],
+  "author": "Tim Behrsin <tim@behrsin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbehrsin/tpdu/issues"
+  },
+  "homepage": "https://github.com/tbehrsin/tpdu#readme"
+}
