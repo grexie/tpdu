@@ -1,6 +1,6 @@
 {
   "name": "tpdu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SMS T-PDU Parser and Builder",
   "main": "index.js",
   "directories": {
